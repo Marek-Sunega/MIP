@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Virtualne triedy.aux
+Reallocating 'name_of_file' (item size: 1) to 4 items.
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: plain.bst
+Database file #1: lit.bib
+Warning--I didn't find a database entry for "Czarnecki:Staged"
+Warning--I didn't find a database entry for "Czarnecki:Progress"
+Warning--I didn't find a database entry for "PLP-Framework"
+Warning--to sort, need author or key in 2020
+Warning--empty author in 2020
+You've used 1 entry,
+            2118 wiz_defined-function locations,
+            508 strings with 4221 characters,
+and the built_in function-call counts, 448 in all, are:
+= -- 50
+> -- 1
+< -- 1
++ -- 1
+- -- 0
+* -- 28
+:= -- 54
+add.period$ -- 3
+call.type$ -- 1
+change.case$ -- 3
+chr.to.int$ -- 0
+cite$ -- 3
+duplicate$ -- 26
+empty$ -- 46
+format.name$ -- 0
+if$ -- 110
+int.to.chr$ -- 0
+int.to.str$ -- 1
+missing$ -- 1
+newline$ -- 7
+num.names$ -- 0
+pop$ -- 7
+preamble$ -- 1
+purify$ -- 2
+quote$ -- 0
+skip$ -- 21
+stack$ -- 0
+substring$ -- 45
+swap$ -- 12
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 4
+warning$ -- 2
+while$ -- 3
+width$ -- 2
+write$ -- 12
+(There were 5 warnings)
