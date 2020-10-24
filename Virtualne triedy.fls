@@ -1,7 +1,7 @@
-PWD c:\Users\PC\Desktop\latex
+PWD e:\škola\MIP\latex
 INPUT C:\Users\PC\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\PC\Desktop\latex\Virtualne triedy.tex
-OUTPUT c:\Users\PC\Desktop\latex\Virtualne triedy.log
+INPUT e:\škola\MIP\latex\Virtualne triedy.tex
+OUTPUT e:\škola\MIP\latex\Virtualne triedy.log
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -330,10 +330,10 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pd
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT c:\Users\PC\Desktop\latex\Virtualne triedy.aux
-INPUT c:\Users\PC\Desktop\latex\Virtualne triedy.aux
-INPUT c:\Users\PC\Desktop\latex\Virtualne triedy.aux
-OUTPUT c:\Users\PC\Desktop\latex\Virtualne triedy.aux
+INPUT e:\škola\MIP\latex\Virtualne triedy.aux
+INPUT e:\škola\MIP\latex\Virtualne triedy.aux
+INPUT e:\škola\MIP\latex\Virtualne triedy.aux
+OUTPUT e:\škola\MIP\latex\Virtualne triedy.aux
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -374,18 +374,18 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\getti
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\generic\gettitlestring\gettitlestring.sty
-INPUT c:\Users\PC\Desktop\latex\Virtualne triedy.out
-INPUT c:\Users\PC\Desktop\latex\Virtualne triedy.out
-INPUT c:\Users\PC\Desktop\latex\Virtualne triedy.out
-INPUT c:\Users\PC\Desktop\latex\Virtualne triedy.out
-INPUT c:\Users\PC\Desktop\latex\Virtualne triedy.out
-INPUT c:\Users\PC\Desktop\latex\Virtualne triedy.out
-INPUT c:\Users\PC\Desktop\latex\Virtualne triedy.out
-INPUT c:\Users\PC\Desktop\latex\Virtualne triedy.out
-OUTPUT c:\Users\PC\Desktop\latex\Virtualne triedy.pdf
-INPUT c:\Users\PC\Desktop\latex\Virtualne triedy.out
-INPUT c:\Users\PC\Desktop\latex\Virtualne triedy.out
-OUTPUT c:\Users\PC\Desktop\latex\Virtualne triedy.out
+INPUT e:\škola\MIP\latex\Virtualne triedy.out
+INPUT e:\škola\MIP\latex\Virtualne triedy.out
+INPUT e:\škola\MIP\latex\Virtualne triedy.out
+INPUT e:\škola\MIP\latex\Virtualne triedy.out
+INPUT e:\škola\MIP\latex\Virtualne triedy.out
+INPUT e:\škola\MIP\latex\Virtualne triedy.out
+INPUT e:\škola\MIP\latex\Virtualne triedy.out
+INPUT e:\škola\MIP\latex\Virtualne triedy.out
+OUTPUT e:\škola\MIP\latex\Virtualne triedy.pdf
+INPUT e:\škola\MIP\latex\Virtualne triedy.out
+INPUT e:\škola\MIP\latex\Virtualne triedy.out
+OUTPUT e:\škola\MIP\latex\Virtualne triedy.out
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\csr17.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
@@ -415,37 +415,37 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\csr12.t
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\csbx12.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\cstt10.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\csr7.tfm
+INPUT C:\Users\PC\AppData\Local\MiKTeX\pdftex\config\pdftex.map
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\csbx10.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\csti10.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\csbx12.tfm
-INPUT C:\Users\PC\AppData\Local\MiKTeX\pdftex\config\pdftex.map
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
-INPUT c:\Users\PC\Desktop\latex\Virtualne triedy.bbl
-INPUT c:\Users\PC\Desktop\latex\Virtualne triedy.bbl
-INPUT c:\Users\PC\Desktop\latex\Virtualne triedy.bbl
-INPUT c:\Users\PC\Desktop\latex\Virtualne triedy.bbl
+INPUT e:\škola\MIP\latex\Virtualne triedy.bbl
+INPUT e:\škola\MIP\latex\Virtualne triedy.bbl
+INPUT e:\škola\MIP\latex\Virtualne triedy.bbl
+INPUT e:\škola\MIP\latex\Virtualne triedy.bbl
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\cssl10.tfm
-INPUT c:\Users\PC\Desktop\latex\Virtualne triedy.aux
-INPUT c:\Users\PC\Desktop\latex\Virtualne triedy.out
-INPUT c:\Users\PC\Desktop\latex\Virtualne triedy.out
+INPUT e:\škola\MIP\latex\Virtualne triedy.aux
+INPUT e:\škola\MIP\latex\Virtualne triedy.out
+INPUT e:\škola\MIP\latex\Virtualne triedy.out
+INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csr6.pk
+INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csr6.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csbx12.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csbx12.pk
-INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\cssl10.pk
-INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\cssl10.pk
-INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csr6.pk
-INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csr6.pk
-INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csr8.pk
-INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csr8.pk
-INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm0600.pk
-INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm0600.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csti10.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csti10.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csbx10.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csbx10.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csr7.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csr7.pk
+INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\cssl10.pk
+INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\cssl10.pk
+INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csr8.pk
+INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csr8.pk
+INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm0600.pk
+INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm0600.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\cstt10.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\cstt10.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csr10.pk
