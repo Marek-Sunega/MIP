@@ -34,15 +34,6 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\babel-slovak\slovak.ld
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\babel-slovak\slovak.ldf
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\babel-slovak\slovak.ldf
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\babel-slovak\slovak.ldf
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\booktabs\booktabs.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\tex\latex\base\fontenc.sty
@@ -422,6 +413,7 @@ INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm0600.t
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\csbx9.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\csr12.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\csbx12.tfm
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\csbx10.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\cstt10.tfm
 INPUT C:\Users\PC\AppData\Local\MiKTeX\pdftex\config\pdftex.map
 INPUT e:\škola\MIP\latex\tab1.pdf
@@ -430,10 +422,9 @@ INPUT e:\škola\MIP\latex\tab1.pdf
 INPUT e:\škola\MIP\latex\tab1.pdf
 INPUT e:\škola\MIP\latex\tab1.pdf
 INPUT e:\škola\MIP\latex\tab1.pdf
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\csbx10.tfm
-INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\cssl10.tfm
 INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\csbx12.tfm
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\tfm\public\csfonts\cssl10.tfm
 INPUT e:\škola\MIP\latex\Virtualne triedy.bbl
 INPUT e:\škola\MIP\latex\Virtualne triedy.bbl
 INPUT e:\škola\MIP\latex\Virtualne triedy.bbl
@@ -444,12 +435,10 @@ INPUT e:\škola\MIP\latex\Virtualne triedy.out
 INPUT e:\škola\MIP\latex\Virtualne triedy.out
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csti10.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csti10.pk
-INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csbx12.pk
-INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csbx12.pk
-INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csbx10.pk
-INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csbx10.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csbx12.pk
+INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csbx12.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\cssl10.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\cssl10.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csr8.pk
@@ -458,6 +447,8 @@ INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm06
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm0600.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\cstt10.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\cstt10.pk
+INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csbx10.pk
+INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csbx10.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csr10.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csr10.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi720\csbx12.pk
@@ -474,3 +465,5 @@ INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm12
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csr17.pk
 INPUT C:\Users\PC\AppData\Local\MiKTeX\fonts\pk\ljfour\public\csfonts\dpi600\csr17.pk
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\PC\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
