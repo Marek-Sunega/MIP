@@ -10,10 +10,3 @@
 *.cb
 *.cb2
 .*.lb
-
-*.bbl
-*.bcf
-*.blg
-*-blx.aux
-*-blx.bib
-*.run.xml
