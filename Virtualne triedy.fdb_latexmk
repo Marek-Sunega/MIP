@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex Virtualne triedy"] 1603992110 "Virtualne triedy.aux" "Virtualne triedy.bbl" "Virtualne triedy" 1603992324
+["bibtex Virtualne triedy"] 1604260519 "Virtualne triedy.aux" "Virtualne triedy.bbl" "Virtualne triedy" 1604260525
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/bibtex/bst/bibtex/plain.bst" 1291864736 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "Virtualne triedy.aux" 1603992323 2816 e5743dd41488589efc3d0af938bdaaee "pdflatex"
-  "lit.bib" 1603973170 399 fbf1f79405f12a8ad5e2fd9e0f40e32c ""
+  "Virtualne triedy.aux" 1604260524 2966 25cf58003f14a5a74a0d1423b158b995 "pdflatex"
+  "lit.bib" 1604260298 701 97e4210005d7b97f6dc8bd9282f70f6a ""
   (generated)
   "Virtualne triedy.blg"
   "Virtualne triedy.bbl"
-["pdflatex"] 1603992319 "e:/škola/MIP/latex/Virtualne triedy.tex" "e:/škola/MIP/latex/Virtualne triedy.pdf" "Virtualne triedy" 1603992324
+["pdflatex"] 1604260519 "e:/škola/MIP/latex/Virtualne triedy.tex" "e:/škola/MIP/latex/Virtualne triedy.pdf" "Virtualne triedy" 1604260525
   "C:/Users/PC/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm0600.pk" 1602942500 7284 075e0437dce4d995af8da79407988809 ""
   "C:/Users/PC/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1602942492 11548 baf09c8b450c02b05ad83a3e57c4a12d ""
   "C:/Users/PC/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1602942515 14064 da76e43b0f1b32fe3ffc69a84ed71a41 ""
@@ -102,17 +102,17 @@
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1575571282 9715 b051d5b493d9fe5f4bc251462d039e5f ""
   "C:/Users/PC/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "Virtualne triedy.aux" 1603992323 2816 e5743dd41488589efc3d0af938bdaaee "pdflatex"
-  "Virtualne triedy.bbl" 1603992110 393 dc819d505f29d8b3dbb0ef8035d9e53f "bibtex Virtualne triedy"
-  "Virtualne triedy.out" 1603992323 557 1a864665a53e30b378f34bd50568d748 "pdflatex"
-  "Virtualne triedy.tex" 1603992318 5211 64220959d4063e90c879a954392828b9 ""
-  "e:/škola/MIP/latex/Virtualne triedy.aux" 1603992323 2816 e5743dd41488589efc3d0af938bdaaee ""
-  "e:/škola/MIP/latex/Virtualne triedy.tex" 1603992318 5211 64220959d4063e90c879a954392828b9 ""
+  "Virtualne triedy.aux" 1604260524 2966 25cf58003f14a5a74a0d1423b158b995 "pdflatex"
+  "Virtualne triedy.bbl" 1604260519 540 d53dda423e41f5e9cf6a9cda28a7d0d7 "bibtex Virtualne triedy"
+  "Virtualne triedy.out" 1604260524 557 1a864665a53e30b378f34bd50568d748 "pdflatex"
+  "Virtualne triedy.tex" 1604260508 7813 dc3a178f3f47ccedda03637abe732b7b ""
+  "e:/škola/MIP/latex/Virtualne triedy.aux" 1604260524 2966 25cf58003f14a5a74a0d1423b158b995 ""
+  "e:/škola/MIP/latex/Virtualne triedy.tex" 1604260508 7813 dc3a178f3f47ccedda03637abe732b7b ""
   "tab1.pdf" 1603973085 73579 21a9d76f29fb81df7202d99b6208a6b3 ""
   (generated)
   "e:/škola/MIP/latex/Virtualne triedy.pdf"
-  "e:/škola/MIP/latex/Virtualne triedy.log"
-  "Virtualne triedy.pdf"
   "Virtualne triedy.aux"
   "Virtualne triedy.log"
   "Virtualne triedy.out"
+  "Virtualne triedy.pdf"
+  "e:/škola/MIP/latex/Virtualne triedy.log"

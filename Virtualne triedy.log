@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.10.4)  29 OCT 2020 18:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.10.4)  1 NOV 2020 20:55
 entering extended mode
 **"e:/škola/MIP/latex/Virtualne triedy.tex"
 ("e:/škola/MIP/latex/Virtualne triedy.tex"
@@ -260,80 +260,77 @@ Package hyperref Warning: Composite letter `\textasciicaron+t'
 (hyperref)                not defined in PD1 encoding,
 (hyperref)                removing `\textasciicaron' on input line 56.
 
-
-LaTeX Warning: Reference `f:rozhod' on page 1 undefined on input line 58.
-
-
-Package hyperref Warning: Composite letter `\textasciicaron+c'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 68.
-
 [1
 
 {C:/Users/PC/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+
+Package hyperref Warning: Composite letter `\textasciicaron+c'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 78.
+
+
 
 pdfTeX warning: pdflatex (file e:/škola/MIP/latex/tab1.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <tab1.pdf, id=56, 597.432pt x 844.95674pt>
 File: tab1.pdf Graphic file (type pdf)
 <use tab1.pdf>
-Package pdftex.def Info: tab1.pdf  used on input line 76.
+Package pdftex.def Info: tab1.pdf  used on input line 86.
 (pdftex.def)             Requested size: 298.71527pt x 422.47734pt.
-[2 <e:/škola/MIP/latex/tab1.pdf>]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2] [3 <e:/škola/MIP/latex/tab1.pdf>]
 
 Package hyperref Warning: Composite letter `\textasciicaron+c'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 97.
-
-
-Package hyperref Warning: Composite letter `\textasciicaron+c'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 97.
-
-
-Package hyperref Warning: Composite letter `\textasciicaron+c'
-(hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 97.
+(hyperref)                removing `\textasciicaron' on input line 107.
 
 
 Package hyperref Warning: Composite letter `\textasciicaron+c'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 106.
+(hyperref)                removing `\textasciicaron' on input line 107.
+
+
+Package hyperref Warning: Composite letter `\textasciicaron+c'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 107.
+
+
+Package hyperref Warning: Composite letter `\textasciicaron+c'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 129.
 
 
 Package hyperref Warning: Composite letter `\textasciicaron+t'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 106.
+(hyperref)                removing `\textasciicaron' on input line 129.
 
 
 Package hyperref Warning: Composite letter `\textasciicaron+c'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 111.
+(hyperref)                removing `\textasciicaron' on input line 134.
 
 
 Package hyperref Warning: Composite letter `\textasciicaron+t'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 111.
+(hyperref)                removing `\textasciicaron' on input line 134.
 
-("e:/škola\MIP\latex\Virtualne triedy.bbl") [3] ("e:/škola\MIP\latex\Virtualne triedy.aux")
+("e:/škola\MIP\latex\Virtualne triedy.bbl") [4] ("e:/škola\MIP\latex\Virtualne triedy.aux")
 Package rerunfilecheck Info: File `"Virtualne triedy".out' has not changed.
 (rerunfilecheck)             Checksum: 1A864665A53E30B378F34BD50568D748;557.
-
-
-LaTeX Warning: There were undefined references.
-
  ) 
 Here is how much of TeX's memory you used:
- 6518 strings out of 480257
- 99777 string characters out of 2882855
- 411150 words of memory out of 3000000
- 22919 multiletter control sequences out of 15000+200000
+ 6521 strings out of 480257
+ 99798 string characters out of 2882855
+ 412257 words of memory out of 3000000
+ 22920 multiletter control sequences out of 15000+200000
  547857 words of font info for 59 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,7n,66p,324b,446s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csti10.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx12.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cssl10.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr8.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt10.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx10.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr10.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csbx12.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx9.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt9.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr9.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr12.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr17.pk><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on "e:/škola\MIP\latex\Virtualne triedy.pdf" (3 pages, 230102 bytes).
+ 60i,7n,66p,324b,444s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csti10.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx10.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx12.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt10.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cssl10.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr8.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr10.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csbx12.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx9.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt9.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr9.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr12.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\PC\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr17.pk><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on "e:/škola\MIP\latex\Virtualne triedy.pdf" (4 pages, 237721 bytes).
 PDF statistics:
- 552 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
+ 572 PDF objects out of 1000 (max. 8388607)
+ 18 named destinations out of 1000 (max. 500000)
  70 words of extra memory for PDF output out of 10000 (max. 10000000)
 
