@@ -7,45 +7,47 @@ The style file: plain.bst
 Database file #1: lit.bib
 Warning--to sort, need author or key in ency
 Warning--empty author in ency
-You've used 2 entries,
+Warning--empty booktitle in covid
+Warning--empty publisher in covid
+You've used 3 entries,
             2118 wiz_defined-function locations,
-            512 strings with 4369 characters,
-and the built_in function-call counts, 703 in all, are:
-= -- 72
-> -- 16
+            516 strings with 4474 characters,
+and the built_in function-call counts, 975 in all, are:
+= -- 95
+> -- 29
 < -- 1
-+ -- 7
-- -- 4
-* -- 42
-:= -- 104
-add.period$ -- 7
-call.type$ -- 2
-change.case$ -- 7
++ -- 12
+- -- 8
+* -- 57
+:= -- 149
+add.period$ -- 10
+call.type$ -- 3
+change.case$ -- 12
 chr.to.int$ -- 0
-cite$ -- 4
-duplicate$ -- 38
-empty$ -- 70
-format.name$ -- 4
-if$ -- 163
+cite$ -- 7
+duplicate$ -- 52
+empty$ -- 96
+format.name$ -- 8
+if$ -- 220
 int.to.chr$ -- 0
-int.to.str$ -- 2
-missing$ -- 2
-newline$ -- 12
-num.names$ -- 4
-pop$ -- 14
+int.to.str$ -- 3
+missing$ -- 3
+newline$ -- 17
+num.names$ -- 6
+pop$ -- 25
 preamble$ -- 1
-purify$ -- 5
+purify$ -- 9
 quote$ -- 0
-skip$ -- 24
+skip$ -- 31
 stack$ -- 0
-substring$ -- 43
+substring$ -- 48
 swap$ -- 11
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 8
-warning$ -- 2
-while$ -- 6
-width$ -- 3
-write$ -- 24
-(There were 2 warnings)
+type$ -- 12
+warning$ -- 4
+while$ -- 8
+width$ -- 4
+write$ -- 33
+(There were 4 warnings)
